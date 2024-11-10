@@ -17,7 +17,9 @@ pip install streamlit plotly pandas
 
 ## Files
 ```utils.py```: Contains the functions utilized in the visualization generation.
+
 ```visualization.py```: Contains the main code for visualization itself.
+
 ```compiled_data.csv```: Contains a compilation of time and country-wise data for different metrics of gender inequality.
 
 ## How to use
