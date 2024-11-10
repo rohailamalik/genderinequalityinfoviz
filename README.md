@@ -15,11 +15,12 @@ You can install these dependencies using pip:
 pip install streamlit plotly pandas
 ```
 
-## Dependencies
+## Files
 ```utils.py```: Contains the functions utilized in the visualization generation.
 ```visualization.py```: Contains the main code for visualization itself.
 ```compiled_data.csv```: Contains a compilation of time and country-wise data for different metrics of gender inequality.
 
+## How to use
 1. Import necessary libraries. (See Dependencies above)
 2. Open the terminal in your Python IDE and run command:
    ```streamlit run visualization.py```
